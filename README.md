@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+🎨 SkillSwap – Design-Only Prototype
+“Where talents meet, and curiosity trades places.”
+🎨 Design Highlights
+Palette: Purple twilight → Ocean sunrise.
+Typography: Inter for UI, Space Grotesk for headings.
+Micro-interactions: Hover “lift”, button ripple, scroll parallax.
+Dark mode: Auto-flips at 7 pm (just for show).
+Icons: Lucide hand-drawn style.
+🛠️ Built With
+React (CRA) – scaffold only
+Tailwind CSS – design tokens
+Lucide Icons – iconography
+📸 Screenshots
+<img width="638" height="431" alt="Start" src="https://github.com/user-attachments/assets/a242e34f-e182-4d89-a013-17ef34035d05" />
+<img width="938" height="421" alt="HomePage" src="https://github.com/user-attachments/assets/949436ed-6e55-4f32-b09c-f23bc819140a" />
+<img width="959" height="404" alt="AddSkill" src="https://github.com/user-attachments/assets/87dd7456-8409-494c-aaf5-52ed39e0a250" />
+<img width="893" height="436" alt="Chat" src="https://github.com/user-attachments/assets/5f5bf85d-3940-43e4-982a-4255aa39d301" />
+<img width="949" height="285" alt="MatchesPage" src="https://github.com/user-attachments/assets/4cf9f4d4-3079-4c43-8dba-1fd96cbaa47a" />
+💌 Credits
+Designed with 💜 by Maryam Raees Alvi
+Icons by Lucide • Photos by Unsplash
+“Not a real swap just a pretty promise of one.”
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
